@@ -1,4 +1,23 @@
-# nbdev template
+# nbdev_test
+> Prototype development with nbdev.
 
-Use this template to more easily create your nbdev project.
+
+## Install
+
+`pip install nbdev_test`
+
+## How to use
+
+Extra math functions can be called like normal functions:
+
+```python
+a = 2
+double(a)
+```
+
+
+
+
+    4
+
 
